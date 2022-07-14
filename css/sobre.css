@@ -2,7 +2,7 @@
 
 section.title{
     background-color: #0b517c;
-
+    width: 100%;
 display: flex;
 justify-content: space-between;
 
@@ -73,10 +73,10 @@ flex-grow: 0;
 
 section.about{
     background-color:#EAF2FD;
-    
+    width: 100%;
 height: 383px;
     display: flex;
-    justify-content: center;
+    
     flex-direction: row;
     align-items: center;
     padding: 4.5em;
