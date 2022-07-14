@@ -73,9 +73,10 @@ flex-grow: 0;
 
 section.about{
     background-color:#EAF2FD;
-    max-width: 1440px;
+    
 height: 383px;
     display: flex;
+    justify-content: center;
     flex-direction: row;
     align-items: center;
     padding: 4.5em;
